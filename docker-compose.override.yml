@@ -25,5 +25,5 @@ services:
       # VS_TEXT_BORDER_W: 20
       # VS_TEXT_X: 100
       # VS_TEXT_Y: 350
-      VS_AUDIO_SOURCE: http://stations:8000/radio.mp3
-      VS_VIDEO_SOURCE: /var/azuracast/videostream/example.mp4
+      VS_AUDIO_SOURCE: https://stream.micmusicradio.be/radio/8000/radio.mp3
+      VS_VIDEO_SOURCE: /var/azuracast/videostream/MMR_TV.mp4 
